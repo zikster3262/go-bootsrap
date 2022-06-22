@@ -1,4 +1,0 @@
-make: Entering directory `/Users/davidtran/Code/bootstrap'
-docker-compose up --build
-make: Leaving directory `/Users/davidtran/Code/bootstrap'
- 
